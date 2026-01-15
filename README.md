@@ -1,7 +1,3 @@
-# Project Name
-
-Brief description of what your project does.
-
 ## Requirements
 
 - Python 3.x
