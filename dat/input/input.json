@@ -1,0 +1,21 @@
+{
+  "place": "Kadikoy,Istanbul",
+
+  "schedule": [
+    {
+      "days": ["Monday", "Wednesday", "Friday"],
+      "time_window": ["08:00", "11:00"],
+      "road_types": ["trunk","primary", "secondary"]
+    },
+    {
+      "days": ["Monday", "Wednesday", "Friday"],
+      "time_window": ["11:00", "15:00"],
+      "road_types": ["secondary", "tertiary"]
+    },
+    {
+      "days": ["Saturday","Sunday"],
+      "time_window": ["09:00", "13:00"],
+      "road_types": ["residential"]
+    }
+  ]
+}
